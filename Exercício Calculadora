@@ -1,0 +1,9 @@
+#INCLUDE <stdio.h>
+
+int main{
+  printf("Exercício_01")
+  int v1
+  
+  
+  return 0;
+{
